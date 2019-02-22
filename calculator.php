@@ -8,6 +8,8 @@ $num1 =  readline("Enter Addend:");
 $num2 = readline("Enter Subtrahend :");
 print "Sum: ";
  echo  $num1 + $num2;
+
+
 }
 else if($operator == "S") {
 $num1 =  readline("Enter minuend:");
